@@ -1,0 +1,38 @@
+.content{
+    backdrop-filter: blur(5px);
+    background-color: rgba(25, 159, 128, 0.556);
+   border-radius: 20px;
+  padding: 60px;
+  text-align: center;
+  color: black;
+  max-width: 400px;
+  width: 100%;
+  
+   
+}
+.input{
+   width: 100%;
+  padding: 10px;
+  margin-bottom: 15px;
+  border: none;
+  border-radius: 5px;
+  background: rgba(255,255,255,0.2);
+  color: black;
+}
+body{ 
+  background: url('https://img.freepik.com/vector-premium/diseno-acuarela-vuelta-al-fondo-escuela_23-2148593945.jpg?semt=ais_incoming&w=740&q=80') no-repeat center center fixed;
+    background-size: cover;
+     display: flex;
+    justify-content: center;  
+    align-items: center;      
+    min-height: 100vh;        
+    margin: 0;
+}
+.button{
+   border-radius: 5px;
+  background: rgba(255,255,255,0.2);
+  color: black;
+   margin-bottom: 15px;
+  border: none;
+  border-radius: 5px;
+}
